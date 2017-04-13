@@ -8,8 +8,8 @@ Use Swiss pairing to create a match tournament
 
 ## How to use:
 <br />
-1. [Install VirtualBox](https://www.virtualbox.org/wiki/Downloads/)<br />
-2. [Install Vagrant](https://www.vagrantup.com/downloads.html/)<br />
+1. <a href="https://www.virtualbox.org/wiki/Downloads">Install VirtualBox</a><br />
+2. <a href="https://www.vagrantup.com/downloads.html">Install Vagrant</a><br />
 3. Get the FSND-Virtual-Machine.zip file from the repository<br />
 4. Replace the files in tournament folder with the files on Github<br />
 5. Redirect to vagrant folder: <pre>cd /vagrant</pre><br />
